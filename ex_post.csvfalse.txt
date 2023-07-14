@@ -1,0 +1,5 @@
+tweet_id,user_id,username,timestamp,content,retweets,favorites,comments
+1,1234,user1,2023-07-14 10:30:00,"Hello Twitter! This is my first tweet.",10,20,"Great first tweet!;Welcome to Twitter!"
+2,5678,user2,2023-07-14 11:45:00,"Excited to share some great news with you all!",50,100,"Congratulations!;That's amazing!"
+3,9012,user3,2023-07-14 15:20:00,"Just posted a new blog article. Check it out!",5,10,"Looking forward to reading it!;Great job!"
+4,3456,user4,2023-07-14 18:00:00,"Having a wonderful time on vacation!",15,30,"Enjoy your vacation!;Wish I was there!"

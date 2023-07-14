@@ -1,0 +1,54 @@
+[
+  {
+    "tweet_id": 1,
+    "user_id": 1234,
+    "username": "user1",
+    "timestamp": "2023-07-14 10:30:00",
+    "content": "Hello Twitter! This is my first tweet.",
+    "retweets": 10,
+    "favorites": 20,
+    "comments": [
+      "Great first tweet!",
+      "Welcome to Twitter!"
+    ]
+  },
+  {
+    "tweet_id": 2,
+    "user_id": 5678,
+    "username": "user2",
+    "timestamp": "2023-07-14 11:45:00",
+    "content": "Excited to share some great news with you all!",
+    "retweets": 50,
+    "favorites": 100,
+    "comments": [
+      "Congratulations!",
+      "That's amazing!"
+    ]
+  },
+  {
+    "tweet_id": 3,
+    "user_id": 9012,
+    "username": "user3",
+    "timestamp": "2023-07-14 15:20:00",
+    "content": "Just posted a new blog article. Check it out!",
+    "retweets": 5,
+    "favorites": 10,
+    "comments": [
+      "Looking forward to reading it!",
+      "Great job!"
+    ]
+  },
+  {
+    "tweet_id": 4,
+    "user_id": 3456,
+    "username": "user4",
+    "timestamp": "2023-07-14 18:00:00",
+    "content": "Having a wonderful time on vacation!",
+    "retweets": 15,
+    "favorites": 30,
+    "comments": [
+      "Enjoy your vacation!",
+      "Wish I was there!"
+    ]
+  }
+]
